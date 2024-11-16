@@ -4,31 +4,31 @@ public class Main {
         int a = 1000;
         System.out.println(" Значение переменной   a   с типом   int   равно " + a);
         byte b = 1;
-        System.out.println(" Значение переменной b с типом byte равно " + b );
+        System.out.println(" Значение переменной b с типом byte равно " + b);
         short c = 130;
-        System.out.println(" Значение переменной c с типом short равно " + c );
+        System.out.println(" Значение переменной c с типом short равно " + c);
         long d = 1200L;
-        System.out.println(" Значение переменной d с типом long равно " + d );
+        System.out.println(" Значение переменной d с типом long равно " + d);
         float e = 3.25f;
-        System.out.println(" Значение переменной e с типом float равно " + e );
+        System.out.println(" Значение переменной e с типом float равно " + e);
         double f = 3.15;
-        System.out.println(" Значение переменной f с типом double равно " + f );
+        System.out.println(" Значение переменной f с типом double равно " + f);
 
         System.out.println(" Задача 2");
         float m = 27.12f;
-        System.out.println(" Значение переменной m с типом float равно " + m );
+        System.out.println(" Значение переменной m с типом float равно " + m);
         long h = 987678965549L;
-        System.out.println(" Значение переменной h с типом long равно " + h );
+        System.out.println(" Значение переменной h с типом long равно " + h);
         double g = 2.786;
-        System.out.println(" Значение переменной g с типом double равно " + g );
+        System.out.println(" Значение переменной g с типом double равно " + g);
         short s = 569;
-        System.out.println(" Значение переменной s с типом short равно " + s );
+        System.out.println(" Значение переменной s с типом short равно " + s);
         short l = -159;
-        System.out.println(" Значение переменной l с типом short равно " + l );
+        System.out.println(" Значение переменной l с типом short равно " + l);
         int aa = 27897;
-        System.out.println(" Значение переменной   aa   с типом   int   равно " + aa );
+        System.out.println(" Значение переменной   aa   с типом   int   равно " + aa);
         byte ii = 67;
-        System.out.println(" Значение переменной ii с типом byte равно " + ii );
+        System.out.println(" Значение переменной ii с типом byte равно " + ii);
 
         System.out.println(" Задача 3");
         byte ludmilaP = 23;
@@ -37,7 +37,7 @@ public class Main {
         short totalLists = 480;
         int totalStudents = ludmilaP + annaS + ekaterinaA;
         int sheetsFor1Student = totalLists / totalStudents;
-        System.out.println(" На каждого ученика рассчитано " + sheetsFor1Student + "  листов бумаги " );
+        System.out.println(" На каждого ученика рассчитано " + sheetsFor1Student + "  листов бумаги ");
 
         System.out.println(" Задача 4");
         byte makingMachine = 20;
@@ -59,7 +59,7 @@ public class Main {
         byte totalColors = 120;
         byte whitePaintOneClass = 2;
         byte brownPaintOneClass = 4;
-        int totalColorsOneClass =  whitePaintOneClass + brownPaintOneClass;
+        int totalColorsOneClass = whitePaintOneClass + brownPaintOneClass;
         int numberOfClass = totalColors / totalColorsOneClass;
         int whitePaintAllClass = numberOfClass * whitePaintOneClass;
         int brownPaintAllClass = numberOfClass * brownPaintOneClass;
@@ -159,27 +159,6 @@ public class Main {
         System.out.println("Маша теперь получает " + mashaSalaryPerMonthAfterTheIncrease + " рублей в месяц. " + "Годовой доход вырос на " + differenceBetweenMashaAnnualSalaryBeforeThePromotionAndAfter + " рублей. ");
         System.out.println("Денис теперь получает " + denisSalaryPerMonthAfterTheIncrease + " рублей в месяц. " + "Годовой доход вырос на " + differenceBetweenDenisAnnualSalaryBeforeThePromotionAndAfter + " рублей.");
         System.out.println("Кристина теперь получает " + christinaSalaryPerMonthAfterTheIncrease + " рублей в месяц. " + "Годовой доход вырос на " + differenceBetweenChristinaAnnualSalaryBeforeThePromotionAndAfter + " рублей.");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
     }
